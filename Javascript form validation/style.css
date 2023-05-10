@@ -1,0 +1,26 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    align-items: center;
+    margin-top: 12%;
+    outline: 1px;
+    -webkit-box-shadow: 1px 0px 5px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 0px 5px 1px rgba(0,0,0,0.75);
+box-shadow: 1px 0px 5px 1px rgba(0,0,0,0.75);
+    padding: 2% 0 2% 0;
+    
+    
+}
+.container{
+    width: 45%;
+    margin-left: 27%;
+    margin-top: 12%;
+    
+}
+label{
+    text-align: left;
+}
+p{
+    color: red;
+}
